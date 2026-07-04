@@ -340,10 +340,7 @@ curl http://localhost:8004/health
 # 👨‍💻 Author
 
 **Karthikeyan T**
-
-B.Tech CSE (Cyber Security)
-
-Jeppiaar University
+Cybersecurity Enthusiast
 
 GitHub: https://github.com/KarthikeyanT-27
 
