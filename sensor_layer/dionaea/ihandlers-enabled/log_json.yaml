@@ -1,0 +1,6 @@
+# Emits one JSON object per line for every dionaea event
+# (connection, offer, download, exploit) to a dedicated log file
+# that Filebeat tails into the pipeline.
+- name: log_json
+  config:
+    file: /opt/dionaea/var/log/dionaea/dionaea.json
